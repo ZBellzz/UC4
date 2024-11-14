@@ -6,5 +6,5 @@ sub = nm1 - nm2
 divin = nm1 / nm2
 mult = nm1 * nm2
 
-print(f"A soma dos numeros {nm1} e {nm2} resulta em {soma} \nA subtração dos numeros {nm1} e {nm2} resulta em {sub} \nA divisão dos numeros {nm1} e {nm2} resulta em {divin} \nA multiplicação dos numeros {nm1} e {nm2} resulta em {mult} \n")
+print(f"Resultado: \n{nm1} + {nm2} = {soma} \n{nm1} - {nm2} = {sub} \n{nm1} / {nm2} = {divin} \n{nm1} * {nm2} = {mult}")
 
