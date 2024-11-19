@@ -1,4 +1,4 @@
-salario = float(input('Informe o seu salario: R$ '))
+salario = float(input('Informe o seu salario: R$'))
 
 if salario < 1500:
     salario_novo = salario + (salario * 0.2)
