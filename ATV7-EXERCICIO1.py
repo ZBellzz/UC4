@@ -1,7 +1,7 @@
 c = 0
 soma_peso = 0
-soma_altura = 0
-alto = 0
+lista_altura = 0
+lista_peso = 0
 
 
 
@@ -22,12 +22,9 @@ while True:
     
         peso = float(input('Informe sua peso'))
 
-        soma_peso += peso
-        soma_altura += altura
+
         c +=1
 
-        if altura > alto:
-            alto = altura
 
 
   
