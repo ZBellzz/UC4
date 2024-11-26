@@ -1,7 +1,7 @@
 nm = int(input('Informe o valor: '))
 fatorial = 1
 
-if nm > 0:
+if nm >= 0:
 
     for c in range(nm, 0, -1):
         fatorial = fatorial * c
